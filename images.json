@@ -1,14 +1,16 @@
 {
   "quay.io/coreos/kube-rbac-proxy": "you608714/kube-rbac-proxy",
   "k8s.gcr.io/metrics-server/metrics-server": "you608714/metrics-server",
-  "k8s.gcr.io/ingress-nginx/controller": "you608714/ingress-nginx-controller",
   "k8s.gcr.io/kube-state-metrics/kube-state-metrics": "you608714/kube-state-metrics",
   "k8s.gcr.io/prometheus-adapter/prometheus-adapter": "you608714/prometheus-adapter",
-  "k8s.gcr.io/kube-apiserver": "you608714/kube-apiserver",
-  "k8s.gcr.io/kube-controller-manager": "you608714/kube-controller-manager",
-  "k8s.gcr.io/kube-scheduler": "you608714/kube-scheduler",
-  "k8s.gcr.io/kube-proxy": "you608714/kube-proxy",
-  "k8s.gcr.io/pause": "you608714/pause",
-  "k8s.gcr.io/etcd": "you608714/etcd",
-  "coredns/coredns": "you608714/coredns"
+  "registry.k8s.io/kube-apiserver": "you608714/kube-apiserver",
+  "registry.k8s.io/kube-controller-manager": "you608714/kube-controller-manager",
+  "registry.k8s.io/kube-scheduler": "you608714/kube-scheduler",
+  "registry.k8s.io/kube-proxy": "you608714/kube-proxy",
+  "registry.k8s.io/pause": "you608714/pause",
+  "registry.k8s.io/etcd": "you608714/etcd",
+  "registry.k8s.io/coredns/coredns": "you608714/coredns"，
+  "registry.k8s.io/ingress-nginx/controller": "you608714/ingress-nginx-controller",
+  "registry.k8s.io/ingress-nginx/kube-webhook-certgen": "you608714/ingress-nginx-webhook-certgen"
+  
 }
