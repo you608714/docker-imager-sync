@@ -9,7 +9,7 @@
   "registry.k8s.io/kube-proxy": "you608714/kube-proxy",
   "registry.k8s.io/pause": "you608714/pause",
   "registry.k8s.io/etcd": "you608714/etcd",
-  "registry.k8s.io/coredns/coredns": "you608714/coredns"，
+  "registry.k8s.io/coredns/coredns": "you608714/coredns",
   "registry.k8s.io/ingress-nginx/controller": "you608714/ingress-nginx-controller",
   "registry.k8s.io/ingress-nginx/kube-webhook-certgen": "you608714/ingress-nginx-webhook-certgen"
   
